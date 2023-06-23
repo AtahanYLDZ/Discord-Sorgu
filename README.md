@@ -11,7 +11,7 @@
 
 ## Yapimcilar
 - [Discord](https://discord.gg/perlaservis) sunucumuzda bulabilirsiniz.
-- Discord: Atahan#8888 / Hoster#1000
+- Discord: Atahan#7104 / Hoster#0001
 
 ## Not
 - Configdeki apiler için [Discord](https://discord.gg/perlaservis) sunucusuna gelip almaniz tavsiye edilir.
